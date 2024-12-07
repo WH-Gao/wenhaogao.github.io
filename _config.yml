@@ -21,7 +21,7 @@ repository               : "WH-Gao/wenhaogao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1881.jpeg"
+  avatar           : "IMG_1881.png"
   name             : "Wenhao Gao"
   pronouns         : # example: "she/her"  
   bio              : "PHD candinate in astronomy"
